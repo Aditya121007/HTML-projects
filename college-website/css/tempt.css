@@ -1,0 +1,26 @@
+title{
+    color: aqua;
+    /* text-align: center; */
+}
+h1{
+    color: rgb(239, 119, 239);
+    background-color: black;
+      text-align: center;
+}
+h2{
+    color: black;
+    background-color: rgb(244, 190, 91);
+    text-align: center;
+}
+button{
+    color: rgb(249, 249, 250);
+    background-color: black;
+    text-align: left;
+}
+h3{
+    background-color: blue;
+}
+a{
+    background-color: aquamarine;
+    text-align: center;
+}

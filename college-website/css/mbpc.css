@@ -1,0 +1,29 @@
+.box{
+    border: 10px solid rgb(228, 27, 27);
+    width: fit-content;
+    padding: 20px ;
+    /* 20px;margin */
+}
+.RAM{
+    border: 10px solid rgb(216, 249, 28);
+    width: fit-content;
+    padding: 30px  ;
+    margin: 20px;
+}
+p{
+    background-color: aqua;
+    /* border: 10px solid rgb(236, 34, 169);
+    width: fit-content; 
+    padding: 20px; */
+    /* margin: 60px; */
+}
+/* body{
+    background-color: rgb(113, 233, 15);
+} */
+/* h1{
+    color: rgb(255, 0, 0);
+   
+}    
+a{
+    background-color: rgb(196, 182, 182);
+} */

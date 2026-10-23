@@ -1,0 +1,19 @@
+h1{
+    color: rgb(159, 243, 23);
+    background-color : black ;
+}
+th{
+    color: aqua;
+    background-color: black;
+}
+td{
+    color: aquamarine;
+    background-color: black;
+}
+caption{
+    color: rgb(246, 17, 204);
+    background-color: rgb(12, 10, 6);
+}
+body{
+    background-color: rgb(236, 143, 29);
+}
