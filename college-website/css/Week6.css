@@ -1,0 +1,11 @@
+img{ 
+    width: 80px;
+}
+div{
+    background-color: #d4eeee;
+    border: black solid;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 20px;
+    text-align:center ; 
+}
