@@ -1,0 +1,37 @@
+.div1{
+    color: #d3d5d9;
+    background-color: #044bc6;
+    text-align:center ; 
+    border: 2px solid #0b53d1;
+    border-radius: 9px;   
+}
+.div2{
+    color: #d3d5d9;
+    background-color: #e9f0fc;  
+    border-radius: 9px;
+}
+.div3{
+    color: #d3d5d9;
+    background-color: #e9f0fc;  
+    border-radius: 9px;
+}
+h2{
+    color: black;
+}
+p{
+    color: #f0f1f3;
+}
+td{
+    color: rgb(1, 1, 1);
+}
+th{
+    background-color: #0b53d1;
+    color: white;
+}
+label{
+    color: rgb(16, 15, 15);
+}
+button{
+    color: white;
+    background-color: #0b4bb9;
+}
