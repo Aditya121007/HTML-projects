@@ -1,6 +1,13 @@
 img{ 
     width: 80px;
 }
+ /* h1{
+    border: black  solid 3px;
+    background-color: aqua;
+    margin:69px;
+    border-radius: 50%;
+    width: 30px;
+ } */
 div{
     background-color: #d4eeee;
     border: black solid;
