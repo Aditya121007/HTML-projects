@@ -1,0 +1,10 @@
+nav{
+   border: 1px black solid;
+    background-color: rgb(206, 139, 122);
+    display: grid;
+     justify-content: space-around;
+    display: flex;
+    flex-direction:row;
+    text-align:end;
+
+}
